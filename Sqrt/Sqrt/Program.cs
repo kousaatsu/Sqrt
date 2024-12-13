@@ -72,7 +72,7 @@ namespace Sqrt
                     fullStr = "";
                     break;
                 }
-                if (i == fullNum.Count - 1 && fullNum[i] == fullStr && remainder != "0") // Если всё же есть остаток, просим ввести точность
+                if (i == fullNum.Count - 1 && fullNum[i] == fullStr && remainder != "0") // Если всё же есть остаток, просим ввести точность, вычисляем дробную часть
                 {
                     Console.WriteLine("Введите число разрядов, до которых требуется округлить число");
                     precision = isCorrectNum();
@@ -94,7 +94,7 @@ namespace Sqrt
                     fullStr = "";
                     break;
                 }
-                if (i == fullNum.Count - 1 && precision > 0) // Если последняя и нужна точность
+                if (i == fullNum.Count - 1 && precision > 0) // Продолжает вычисление дробной части
                 {
                     fullStr = "00";
                     precision -= 1;
@@ -105,7 +105,7 @@ namespace Sqrt
             RecursiveSqrt(fullStr, remainder, n, precision);
         }
 
-        public int isCorrectNum()
+        public int isCorrectNum() // Проверка на корректность числа
         {
             while (true)
             {
