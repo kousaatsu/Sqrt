@@ -5,3 +5,10 @@ D:\Мои Документы\Мои документы\Visual Studio 2015\Projec
 D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\Sqrt\Sqrt\obj\Debug\Sqrt.csproj.CoreCompileInputs.cache
 D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\Sqrt\Sqrt\obj\Debug\Sqrt.exe
 D:\Мои Документы\Мои документы\Visual Studio 2015\Projects\Sqrt\Sqrt\obj\Debug\Sqrt.pdb
+D:\Мои Документы\Мои документы\GitHub\Sqrt\Sqrt\Sqrt\bin\Debug\Sqrt.exe.config
+D:\Мои Документы\Мои документы\GitHub\Sqrt\Sqrt\Sqrt\bin\Debug\Sqrt.exe
+D:\Мои Документы\Мои документы\GitHub\Sqrt\Sqrt\Sqrt\bin\Debug\Sqrt.pdb
+D:\Мои Документы\Мои документы\GitHub\Sqrt\Sqrt\Sqrt\obj\Debug\Sqrt.csproj.AssemblyReference.cache
+D:\Мои Документы\Мои документы\GitHub\Sqrt\Sqrt\Sqrt\obj\Debug\Sqrt.csproj.CoreCompileInputs.cache
+D:\Мои Документы\Мои документы\GitHub\Sqrt\Sqrt\Sqrt\obj\Debug\Sqrt.exe
+D:\Мои Документы\Мои документы\GitHub\Sqrt\Sqrt\Sqrt\obj\Debug\Sqrt.pdb
